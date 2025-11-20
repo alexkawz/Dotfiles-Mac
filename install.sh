@@ -1,4 +1,5 @@
 #!/bin/bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 echo "Installing Gnu Stow"
 brew install stow
 echo "Installing nerd fonts"

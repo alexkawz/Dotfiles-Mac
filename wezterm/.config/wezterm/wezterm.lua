@@ -24,7 +24,7 @@ config.enable_tab_bar = false
 
 config.color_scheme = 'Everforest Dark (Gogh)'
 
-config.window_background_opacity = 0.9
+config.window_background_opacity = 0.98
 -- keep adding config options
 
 
